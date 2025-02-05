@@ -38,7 +38,7 @@ The analysis includes:
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/crime-analysis-la.git
+   git clone https://github.com/MuhammadTaha1038/Analysis-of-Crimes-in-Los-Angeles.git
    ```
 2. Install required libraries:
    ```bash
